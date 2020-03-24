@@ -9,6 +9,8 @@ Version control: Github
 
 Automation / Deploying: Jenkins
 
+Database: Elasticsearch
+
 Languages used: HTML, SASS (SCSS), JS, PHP
 
 JS toolkit: Gulp
